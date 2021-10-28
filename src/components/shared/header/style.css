@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 15%;
+    border: 1px solid black;
+    background-color: #324098;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    font-size: 45px;
+    color: white;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 40%;
+    font-size: 20px;
+    color: white;
+}
+
+.buttons h3 {
+    margin: 10px;
+}
+
+.logo:hover,.buttons h3:hover {
+    color: #66AF63;
+    cursor: pointer;
+}
+
