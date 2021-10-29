@@ -1,0 +1,43 @@
+.chooseText {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightblue;
+    height: 50px;
+    width: 100%;
+}
+
+.text {
+    width: 80%;
+    font-size: 40px;
+}
+
+.buttons {
+    width: 20%;
+}
+
+.option {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    height: 550px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.product {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    margin: 10px;
+}
+
+.product img {
+    width: 250px;
+    height: 250px;
+}
+
+.product img:hover {
+    cursor: pointer;
+}
