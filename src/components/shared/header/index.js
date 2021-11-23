@@ -13,6 +13,7 @@ class Header extends React.Component {
                     <h3>My profile</h3>
                 </div>
                 </div>
+
           </div>
       )    
     }

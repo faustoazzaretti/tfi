@@ -1,13 +1,19 @@
-//import UserHome from './components/layout/userHome/index';
+import * as React from "react";
+import { Routes ,Route } from 'react-router-dom';
+//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import ChooseOption from '../src/components/layout/chooseOption/index';
 import ChooseCPU from '../src/components/screen/chooseCPU/index';
-import './App.css';
+import Motherboard from '../src/components/screen/chooseMotherboard/index';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <ChooseCPU/>
-    </div>
+    <>
+    <Routes>
+        <Route path='/' element={<ChooseOption/>} />
+        <Route path='/cpu' element={<ChooseCPU/>} />
+        <Route path='/motherboard' element={<Motherboard/>} />
+    </Routes>
+    </>
   );
 }
 
