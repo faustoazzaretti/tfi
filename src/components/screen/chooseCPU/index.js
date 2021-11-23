@@ -11,11 +11,11 @@ class chooseOption extends React.Component {
               <Header />
               <div className="container">
                 <div className="chooseText">
-                      <div className="text">Pick cpu</div>
+                      <div className="text">Pick cpu model</div>
                 </div>
                   <div className="option">
                     <div className="table">
-                      <h4>Pc Spects:</h4>
+                      <h4>Pc Spects: INTEL</h4>
                       <h4>Cpu:</h4>
                       <h4>Motherboard:</h4>
                       <h4>Ram:</h4>
@@ -25,10 +25,10 @@ class chooseOption extends React.Component {
                     </div>
                   <div className="products">
                     <div className="product">
-                          <img src="https://pbs.twimg.com/profile_images/1295739630197800963/AJQ9XqLN_400x400.jpg"/>
+                          <img src="https://mla-s1-p.mlstatic.com/777629-MLA43406873119_092020-F.jpg"/>
                       </div>
                       <div className="product">
-                      <img src="https://s3-symbol-logo.tradingview.com/intel--600.png"/>
+                      <img src="https://www.deffo.com.ar/wp-content/uploads/2020/09/Core-i9-10th-unlock-9.jpg"/>
                       </div>
                     </div>
                   </div>

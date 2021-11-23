@@ -6,7 +6,7 @@ class Header extends React.Component {
       return(
           <div>
               <div className="header">
-                <div className="logo">Cotizador</div>
+                <div className="logo">Pc Picker</div>
                 <div className="buttons">
                     <h3>Home</h3>
                     <h3>Settings</h3>
