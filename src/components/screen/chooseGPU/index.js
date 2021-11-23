@@ -19,17 +19,17 @@ class chooseOption extends React.Component {
                       <h4>Pc Spects:</h4>
                       <h4>Cpu: Intel Core I9 1031</h4>
                       <h4>Motherboard: Intel e210 882</h4>
-                      <h4>Ram:</h4>
+                      <h4>Ram: Hyperx fury 8gb ddr4</h4>
                       <h4>Graphic Card:</h4>
                       <h4>Storage:</h4>
                       <h4>Box:</h4>
                     </div>
                   <div className="products">
                     <div className="product">
-                          <img src="https://gorilagames.com/img/Public/1019-producto-1585854050-ddr4-8gb-3200mhz-rgb-hyperxfury-3-8170.jpg"/>
+                          <img src="https://hardmyware.com/wp-content/uploads/2020/06/GPU-Entrada.jpg"/>
                       </div>
                       <div className="product">
-                      <img src="https://http2.mlstatic.com/D_NQ_NP_617253-MLA31926831575_082019-O.jpg"/>
+                      <img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/08/20/15347882501818.jpg"/>
                       </div>
                     </div>
                   </div>

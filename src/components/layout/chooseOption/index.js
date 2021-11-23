@@ -5,18 +5,6 @@ import Footer from '../../shared/footer/index';
 import {Button} from '@mui/material';
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 
-window.onload = function(){
-  var imagen = document.getElementsByTagName("img")[0];
-  var imagen1 = document.getElementsByTagName("img")[1];
-  imagen.onclick= function(){
-    <Link to="/cpu"></Link>
-  };
-  imagen1.onclick= function(){
-    <Link to="/cpu"></Link>
-  };
-}
-
-
 class chooseOption extends React.Component {
     render() {
       return(

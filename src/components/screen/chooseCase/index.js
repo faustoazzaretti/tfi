@@ -19,17 +19,17 @@ class chooseOption extends React.Component {
                       <h4>Pc Spects:</h4>
                       <h4>Cpu: Intel Core I9 1031</h4>
                       <h4>Motherboard: Intel e210 882</h4>
-                      <h4>Ram:</h4>
-                      <h4>Graphic Card:</h4>
-                      <h4>Storage:</h4>
-                      <h4>Box:</h4>
+                      <h4>Ram: Hyperx fury 8gb ddr4</h4>
+                      <h4>Graphic Card: GTX 2080TI</h4>
+                      <h4>Storage: SSD 240GB KINGSTON</h4>
+                      <h4>Box: Gabinete Gamer Magnumtech Mt-235gm Con Rgb</h4>
                     </div>
                   <div className="products">
                     <div className="product">
-                          <img src="https://gorilagames.com/img/Public/1019-producto-1585854050-ddr4-8gb-3200mhz-rgb-hyperxfury-3-8170.jpg"/>
+                          <img src="https://toppng.com/uploads/preview/ame-max-expedition-red-gaming-matx-pc-case-rear-led-game-max-expeditio-11563885692vhvq2mtozw.png"/>
                       </div>
                       <div className="product">
-                      <img src="https://http2.mlstatic.com/D_NQ_NP_617253-MLA31926831575_082019-O.jpg"/>
+                      <img src="https://www.vhv.rs/dpng/d/480-4804648_clx-gaming-pc-kit-image-gaming-pc-case.png"/>
                       </div>
                     </div>
                   </div>
